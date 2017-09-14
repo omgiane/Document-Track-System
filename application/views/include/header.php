@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Bootstrap!</title>
+	
+	<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+	<link href="<?php echo base_url('bootstrap/css/bootstrap.css'); ?> "  rel="stylesheet" />
+	<link href="<?php echo base_url('bootstrap/css/bootstrap-theme.css'); ?> " rel="stylesheet" />
+	<link href="<?php echo base_url('bootstrap/css/custom.css'); ?>" rel="stylesheet" />
+
+	<script src="<?php echo base_url('boostrap/js/jquery.min.js'); ?>"></script>
+	<script src="<?php echo base_url('bootstrap/js/bootstrap.min.js'); ?>"></script>
+</head>
+<body>
